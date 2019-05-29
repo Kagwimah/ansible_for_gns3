@@ -1,6 +1,6 @@
 ---
 - name: This is a test playbook
-  hosts: gns3
+  hosts: all
   connection: local
   # vars:
   #     cli:
